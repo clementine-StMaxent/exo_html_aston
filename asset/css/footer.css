@@ -1,0 +1,13 @@
+.special-color-dark {
+    background-color: #263238 !important;
+}
+
+.footer_elem {
+    background-color: #000000 !important;
+}
+
+
+footer.page-footer {
+    bottom: 0;
+    color: #fff;
+}
