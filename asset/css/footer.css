@@ -11,3 +11,18 @@ footer.page-footer {
     bottom: 0;
     color: #fff;
 }
+
+.logo_social{
+    width: 5%;
+}
+
+.block_social{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link_footer{
+    display: flex;
+    flex-direction:column;
+}
